@@ -1,0 +1,11 @@
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\bin\Debug\Activity1_BL.dll
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\bin\Debug\Activity1_BL.pdb
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\bin\Debug\Activity1_DAL.dll
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\bin\Debug\Activity1_DTO.dll
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\bin\Debug\Activity1_DAL.pdb
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\bin\Debug\Activity1_DTO.pdb
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\obj\Debug\Activity1_BL.csproj.AssemblyReference.cache
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\obj\Debug\Activity1_BL.csproj.CoreCompileInputs.cache
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\obj\Debug\Activity1_BL.csproj.CopyComplete
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\obj\Debug\Activity1_BL.dll
+D:\Rohini\C# ACTIVITIES\ProblemADO.NET_1\Activity1_BL\obj\Debug\Activity1_BL.pdb
